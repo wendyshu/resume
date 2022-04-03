@@ -41,7 +41,7 @@ body {
     grid-template-areas:
       "topLeft topMiddle topMiddle topMiddle topRight topRight"
       "left left left left right right";
-    grid-template-rows: 0.7fr 4fr;
+    grid-template-rows: 1fr 8fr;
   }
 }
 
