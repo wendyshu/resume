@@ -107,8 +107,8 @@ body {
 
 .contactInfo .material-icons {
   padding-right: 2px;
-  font-size: 0.8rem;
-  vertical-align: -4px;
+  font-size: 0.7rem;
+  vertical-align: -2.6px;
 }
 
 .contactInfo .text {
@@ -283,4 +283,8 @@ h5 {
 .volunteer ul {
   list-style-type: disc;
   padding-left: 15px;
+}
+
+.volunteer ul li {
+  font-size: 0.7rem;
 }
